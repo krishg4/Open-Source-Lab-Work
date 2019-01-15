@@ -1,6 +1,4 @@
-## Name: Mukkai S. Krishnamoorthy ( moorthy) -
-### email: moorthy@cs.rpi.edu
-### office Lally 305
-### github account: mskmoorthy
-### slack handle: mskmoorthy
-Photo of Moorthy ![lab1_image](images/lab1_image.jpg)
+## Name: Gokul Kumar
+### email: krishg4@rpi.edu
+### github account:
+Photo of Moorthy : ![Gokul](images/gokul.jpg)
