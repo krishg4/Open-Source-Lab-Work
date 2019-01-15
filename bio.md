@@ -1,4 +1,4 @@
-Name: Gokul Kumar
-Email: krishg4@rpi.edu
-Github: krisgh4
-Photo:
+Name: Gokul Kumar \n
+Email: krishg4@rpi.edu \n
+Github: krisgh4 \n
+Photo: 
