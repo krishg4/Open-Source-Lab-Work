@@ -7,8 +7,7 @@ Linux (Ubuntu) directory structure:
 
 
 
-Regex Practice Problems/Blockly Problem:
-![lab1_image](Labs/lab1_image.jpg)
+Regex Practice Problems/Blockly Problem: ![lab1_image](lab1_image.jpg)
 
 
 
