@@ -14,3 +14,6 @@ Regex Practice Problems/Blockly Problem:
 
 
 Reflection:
+  Looking through the open source projects, the one project that caught my interest was the Battle of Wesnoth project. My primary motivation was the fact that I actually played said game in the past, so seeing it as an open source project was a bit surreal for me. Moreover, skimming through the project page it seems they're using primarly C++ which would help me because since Data Structures I haven't used C++ for any practical projects so this could help me develop my skills further.
+
+  As for today's lab, it was relatively straightforward yet thought provoking. The hardest part was the blocky puzzle due to the contraints that were implemented. Aside from that everything else was doable for sure.
