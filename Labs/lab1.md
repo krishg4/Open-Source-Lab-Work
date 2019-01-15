@@ -8,7 +8,6 @@ Linux (Ubuntu) directory structure:
 
 
 Regex Practice Problems/Blockly Problem:
-![Gokul](images/gokul.jpg)
 ![lab1_image](images/lab1_image.jpg)
 
 
