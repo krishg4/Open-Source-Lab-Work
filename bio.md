@@ -3,4 +3,4 @@
 ### office Lally 305
 ### github account: mskmoorthy
 ### slack handle: mskmoorthy
-Photo of Moorthy ![Moorthy](images/Regular Expressions.jpg)
+Photo of Moorthy ![lab1_image](images/lab1_image.jpg)
