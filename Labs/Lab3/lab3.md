@@ -61,19 +61,7 @@ Link to code: https://github.com/krishg4/Open-Source-Lab-Work/blob/master/Labs/L
 
 ## Latex:
 
-$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$
-
-$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}...}}}$
-
-\[
-M=
-  \begin{bmatrix}
-    1 & 1 & 1 & 1 \\
-    -1 & 1 & -1 & 1 \\
-    -1 & -1 & 1 & 1 \\
-    1 & -1 & -1 & 1
-  \end{bmatrix}
-\]
+![lab3_latex.jpg](lab3_latex.jp)
 
 
 gibboa
