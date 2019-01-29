@@ -53,7 +53,28 @@ RushMe Gource Map: ![lab3_rush.jpg](lab3_rush.jpg)
 
 # Unit Testing:
 
-Link to code:
+Link to code: https://github.com/krishg4/Open-Source-Lab-Work/blob/master/Labs/Lab3/markdown.py
+              https://github.com/krishg4/Open-Source-Lab-Work/blob/master/Labs/Lab3/test_markdown_unittest.py
+
+
+# Part 0:
+
+## Latex:
+
+$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$
+
+$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}...}}}$
+
+\[
+M=
+  \begin{bmatrix}
+    1 & 1 & 1 & 1 \\
+    -1 & 1 & -1 & 1 \\
+    -1 & -1 & 1 & 1 \\
+    1 & -1 & -1 & 1
+  \end{bmatrix}
+\]
+
 
 gibboa
 drochecsp2017
