@@ -61,7 +61,7 @@ Link to code: https://github.com/krishg4/Open-Source-Lab-Work/blob/master/Labs/L
 
 ## Latex:
 
-![lab3_latex.jpg](lab3_latex.jp)
+Latex: ![lab3_latex.jpg](lab3_latex.jp)
 
 
 gibboa
