@@ -9,7 +9,7 @@
 ## CheckPoint 2: Executing the Tests
 
 ### VTK Test Submission:
-![lab_8vtktest.jpg](lab_8vtktest.jpg)
+![lab_8vtktest.jpg](lab8_vtktest.jpg)
 
 ## CheckPoint 3: Adding a Test
 
