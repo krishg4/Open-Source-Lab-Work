@@ -27,7 +27,7 @@
 
 ### Git Diff
 
-![lab10_example2.2.jpg](lab10_example2.2.jpg)
+![lab10_example2.3.jpg](lab10_example2.3.jpg)
 
 ## Checkpoint 4: Driving Queries
 
