@@ -36,3 +36,6 @@
 ![lab9_example4.jpg](lab9_example4.jpg)
 
 -- NOTE: Due to issues with localhost I was not able to finish this part of the lab, therefore I've decided to just take a picture of the server 
+
+
+NOTE TO PROF: Hey Turner just wanted to remind you that I tried to get this working during the lab but something went wrong with the localhost so I decided to just go with what you said
